@@ -1,0 +1,167 @@
+.UserDashBoard-Container {
+    height: 100%;
+    width: 100%;
+    background-color: #202020af;
+    color: white;
+}
+.UserDashBoard-Container .Sub-Container {
+    height: 100%;
+    width: 100%;
+}
+.UserDashBoard-Container .Sub-Container .Body {
+    height: 89%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.UserDashBoard-Container .Sub-Container .Body .Sub-Body {
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.UserDashBoard-Container .Sub-Container .Body .Sub-Body .SubBody11 {
+    width: 300px;
+    height: 100%;
+    padding: 5px 0 0 0;
+    box-sizing: border-box;
+    transition: width 0.3s;
+    z-index: 1;
+}
+.UserDashBoard-Container .Sub-Container .Body .Sub-Body .SubBody12 {
+    width: 60px;
+    height: 100%;
+    padding: 5px 0 0 0;
+    box-sizing: border-box;
+    transition: width 0.3s;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+}
+.UserDashBoard-Container .Sub-Container .Body .Sub-Body .SubBody21 {
+    width: 1220px;
+    height: 98%;
+    z-index: 1;
+    transition: width 0.3s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.UserDashBoard-Container .Sub-Container .Body .Sub-Body .SubBody22 {
+    width: 1455px;
+    height: 98%;
+    z-index: 1;
+    transition: width 0.3s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.UserDashBoard-Container .Sub-Container .Body .Sub-Body .NavButton1 {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    cursor: pointer;
+    padding-left: 10px;
+    background-color: rgba(2, 2, 2, 0.25);
+    border-radius: 0 25px 25px 0;
+}
+.UserDashBoard-Container .Sub-Container .Body .Sub-Body .NavButton1 .NavButtonText {
+    width: 80%;
+    font-family: "Roboto";
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.UserDashBoard-Container .Sub-Container .Body .Sub-Body .NavButton2 {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    cursor: pointer;
+    padding-left: 10px;
+}
+.UserDashBoard-Container .Sub-Container .Body .Sub-Body .NavButton2 .NavButtonText {
+    width: 80%;
+    font-family: "Roboto";
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.UserDashBoard-Container .Sub-Container .Body .Sub-Body .NavButton1:hover {
+    background-color: #000;
+    border-radius: 0 25px 25px 0;
+}
+.UserDashBoard-Container .Sub-Container .Body .Sub-Body .NavButton2:hover {
+    background-color: #000;
+    border-radius: 0 25px 25px 0;
+}
+
+.Input-Field {
+    display: flex;
+    width: 450px;
+    margin: 7px;
+}
+.Input-Field .Text {
+    width: 150px;
+    margin: 8px 10px 8px 0;
+    font-size: medium;
+    font-family: "Roboto";
+    font-weight: 500;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.Input-Field .Text-Input {
+    width: 300px;
+}
+.Input-Field1 {
+    display: flex;
+    width: 700px;
+    margin: 7px;
+}
+.Input-Field1 .Text {
+    width: 200px;
+    margin: 8px 10px 8px 0;
+    font-size: medium;
+    font-family: "Roboto";
+    font-weight: 500;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.Input-Field1 .Text-Input {
+    width: 500px;
+}
+.Header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto";
+    font-weight: 500;
+    background-color: black;
+    color: white;
+}
+.Row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 15px;
+}
+.Row1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    margin: 0 5px;
+}

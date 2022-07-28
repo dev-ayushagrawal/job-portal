@@ -1,0 +1,212 @@
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.exe
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.deps.json
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.runtimeconfig.json
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.runtimeconfig.dev.json
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.pdb
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.AssemblyInfo.cs
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\staticwebassets\JobPortalApplication.StaticWebAssets.Manifest.cache
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\staticwebassets\JobPortalApplication.StaticWebAssets.xml
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\scopedcss\bundle\JobPortalApplication.styles.css
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.RazorTargetAssemblyInfo.cache
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.csproj.CopyComplete
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.pdb
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.genruntimeconfig.cache
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\visha\source\repos\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\appsettings.json
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.exe
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.deps.json
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.runtimeconfig.json
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.runtimeconfig.dev.json
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.pdb
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.csproj.AssemblyReference.cache
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.AssemblyInfoInputs.cache
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.AssemblyInfo.cs
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.csproj.CoreCompileInputs.cache
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\staticwebassets\JobPortalApplication.StaticWebAssets.Manifest.cache
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\staticwebassets\JobPortalApplication.StaticWebAssets.xml
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\scopedcss\bundle\JobPortalApplication.styles.css
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.RazorTargetAssemblyInfo.cache
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.csproj.CopyComplete
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.dll
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.pdb
+D:\V Technology\YouTube Project\Job Portal Application\SimpleAuthSystem_BE\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.genruntimeconfig.cache
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.exe
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.deps.json
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.runtimeconfig.json
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.runtimeconfig.dev.json
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.pdb
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.csproj.AssemblyReference.cache
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.AssemblyInfoInputs.cache
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.AssemblyInfo.cs
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.csproj.CoreCompileInputs.cache
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\staticwebassets\JobPortalApplication.StaticWebAssets.Manifest.cache
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\staticwebassets\JobPortalApplication.StaticWebAssets.xml
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\scopedcss\bundle\JobPortalApplication.styles.css
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.RazorTargetAssemblyInfo.cache
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.csproj.CopyComplete
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.dll
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.pdb
+C:\Users\krite\Desktop\New folder\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.genruntimeconfig.cache
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.StaticWebAssets.xml
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.exe
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.deps.json
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.runtimeconfig.json
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.runtimeconfig.dev.json
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\JobPortalApplication.pdb
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.csproj.AssemblyReference.cache
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.AssemblyInfoInputs.cache
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.AssemblyInfo.cs
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.csproj.CoreCompileInputs.cache
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\staticwebassets\JobPortalApplication.StaticWebAssets.Manifest.cache
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.RazorTargetAssemblyInfo.cache
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.csproj.CopyComplete
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.dll
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.pdb
+C:\job-portal-application\Job-Portal-Application-BackEnd\Job-Portal-Application-BackEnd\SimpleAuthSystem\obj\Debug\netcoreapp3.1\JobPortalApplication.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+#Project Features
+
+1] CRUD Operation
+	- Job Templet [ Create , Read, Delete, Update ]
+	- Job Application [ Create, Read , Delete ]
+	- Feedback System [ Create , Read, Delete ]
+2] Pagination System [ UserDashboard (Jobs Page) , AdminDashBoard (Jobs Page, Applicantion Page, Feedback Page)]
+3] MasterTables
+4] Role Based Authentications ( Login / Logout ) Note : Admin SignUp Not Possible Without master password
+5] Flexible UI
+6] RoleBased Controller (For Code Readeble)
+7] One Page Application Implementation
+8] Search / Filter Functinality On Stream and Field
+9] Route Authentication System
+
+
+#Create Database
+
+Database Name : JobPortalApplication
+
+#Create Tables
+
+User Details Table Name : UserDetail
+
+Stream & Field Details Table Name : fact_jobs_master
+
+Job Details Table Name : fact_jobs_master
+
+FeedBack Details Table Name : FeedbackDetail
+
+Application Details Table Name : ApplicationDetail
+
